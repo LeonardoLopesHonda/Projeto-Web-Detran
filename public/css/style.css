@@ -1,0 +1,64 @@
+.span{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    right: 12px;
+}
+.span2{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    right: 20px;
+}
+.span p{
+    color: white;
+    margin-right: 1.25rem;
+}
+.span2 a{
+    margin-right: 10px;
+}
+.textoHome{
+    position: absolute;
+    left: 12rem;
+}
+.textoHome2{
+    bottom: 22rem;
+}
+.textoHome3{
+    bottom: 15.5rem;
+}
+.textoHome4{
+    bottom: 10rem;
+}
+#rodape{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+#topo{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#direcionadores{
+    margin-left: 15px;
+}
+#direcionadores li a:hover{
+    background-color: aqua;
+    border-radius: 10px;
+    color: black;
+}
+#logo{
+    margin-left: 25px;
+}
+.content{
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    position: absolute;
+    right: 4rem;
+    top: 6rem;
+}
